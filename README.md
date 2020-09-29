@@ -1,6 +1,7 @@
 # Serie_Fibonacci
 El programa esta creado para hacer la representación de la serie fibonacci, utilizando el lenguaje c++
 
+
 Dentro del metodo main pide al usuario introducir el numero de elementos de la serie fibonacci que desee visualizar, tambien se crea el ciclo Do-While el cual nos ayuda a 
 comprobar si el numero introducido es mayor a cero.
 
