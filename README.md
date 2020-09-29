@@ -4,6 +4,7 @@ El programa esta creado para hacer la representación de la serie fibonacci, uti
 Dentro del metodo main pide al usuario introducir el numero de elementos de la serie fibonacci que desee visualizar, tambien se crea el ciclo Do-While el cual nos ayuda a 
 comprobar si el numero introducido es mayor a cero.
 
+
 ![1 (2)](https://user-images.githubusercontent.com/71079322/94578805-c073b080-023d-11eb-8853-59cb2c57ea59.png)
 
 Creamos el metodo sumar pasandole los parametros de los dos primeros elementos y el numero de elementos que desea visualizar el usuario. 
